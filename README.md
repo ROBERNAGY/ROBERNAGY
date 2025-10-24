@@ -2,7 +2,7 @@
 <h3 align="center">🎮 Game Developer | C++ & C# | Unity & Unreal Engine Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHEwbHhhMnJndGZvOW56Y3p1ZzB6amFzODBodTBoNmNuenltYmkydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif" width="400" alt="Game developer at work"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN6eG5idHdzYzhpY3pscWh6NHl5NnA0MGw3dzl1cHljYmZjNTR4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QsDbN1RczmTmJaMwOu/giphy.gif" width="400" alt="Game developer at work"/>
 </p>
 
 <p align="center">

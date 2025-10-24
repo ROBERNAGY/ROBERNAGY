@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rober Nagy</h1>
-<h3 align="center">🎮 Game Developer | C++ & C# | Unity & Unreal Engine Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ6MWxmcjV2N3pjdm9qeTVodXo3YTl0ZnM3cWF0NmtneTFqZ3M5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qa4KtB03ixJrmHw7Ti/giphy.gif" width="400" alt="Game developer at work"/>
-</p>
+<h3 align="center">🎮 Game Developer | C++ & C# | Unity & Unreal Engine</h3>
 
 <p align="center">
   Passionate about creating immersive game experiences through code, physics, and design.  
   Always exploring new technologies to bring creative ideas to life.
 </p>
 
-<p align="center"><em>"I turn coffee into code."</em></p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ6MWxmcjV2N3pjdm9qeTVodXo3YTl0ZnM3cWF0NmtneTFqZ3M5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qa4KtB03ixJrmHw7Ti/giphy.gif" width="400" alt="Game developer at work"/>
+</p>
+
+> <p align="center"><em><strong>I turn coffee into code.</strong></em></p>
+
+
 
 ---
 
 - 🔭 I’m currently working on **game prototypes using Unity Engine**
-- 🌱 I’m improving my **gameplay systems and game programming design** skills  
+- 🌱 I’m improving my **gameplay systems and game programming design patterns** skills  
 - 💬 Ask me about **game mechanics, engine architecture, or optimization**
 - 📫 Reach me at **robernagy02@gmail.com**
 
